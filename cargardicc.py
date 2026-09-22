@@ -19,7 +19,6 @@ def cargar(ruta: str) -> dict:
 			'Presion':elementos[9]
 			}
 			viento = elementos[8].strip()
-			print(viento)
 			if viento.lower()=='calma':
 				datos['Direccion_viento']='Calma'
 				datos['Velocidad_viento']=0.0

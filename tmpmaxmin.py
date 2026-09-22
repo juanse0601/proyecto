@@ -6,8 +6,7 @@ def topciudades(dicc:dict, tipodato:str, n:int, descendente:bool) ->list:
 		lista.sort(reverse=True)
 	else:
 		lista.sort(reverse=False)
-	print(lista[:n])
-	return 0
+	return lista[:n]
 
 def tmpmax(dicc:dict) -> int:
 	
@@ -25,17 +24,17 @@ def tmpmin(dicc:dict) -> int:
 	return tmpmin
 
 def velmin(dicc:dict) -> int:	
-	velmin=dicc['Azul']['temperatura(C)']
+	velmin=dicc['Azul']['Velocidad_viento']
 	for ciudad,datos in dicc.items():
-		if datos['temperatura(C)'] < velmin:
-			velmin=datos['temperatura(C)']	
+		if datos['Velocidad_viento'] < velmin:
+			velmin=datos['Velocidad_viento']	
 	return velmin
 			
 def velmax(dicc:dict) -> int:	
-	velmax=dicc['Azul']['temperatura(C)']
+	velmax=dicc['Azul']['Velocidad_viento']
 	for ciudad,datos in dicc.items():
-		if datos['temperatura(C)'] > velmax:
-			velmax=datos['temperatura(C)']	
+		if datos['Velocidad_viento'] > velmax:
+			velmax=datos['Velocidad_viento']	
 	return velmax
 	
 			
