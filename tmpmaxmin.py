@@ -1,5 +1,4 @@
 import sys
-from ciudades import nombre_ciudades
 def topciudades(dicc:dict, tipodato:str, n:int, descendente:bool) ->list:
 	lista=[(datos[tipodato],ciudad) for ciudad, datos in dicc.items()]
 	if descendente==True:
@@ -36,5 +35,20 @@ def velmax(dicc:dict) -> int:
 		if datos['Velocidad_viento'] > velmax:
 			velmax=datos['Velocidad_viento']	
 	return velmax
-	
-			
+				
+def ciudades(dicc:dict,tipodato:str,max:bool):
+	lista=[]
+	if tipodato=='temperatura(C)':
+		if max==True:
+			dato=tmpmax(dicc)
+		else:
+			dato=tmpmin(dicc)
+	if tipodato=='Velocidad_viento':
+		if max==True:
+			dato=velmax(dicc)
+		else:
+			dato=velmin(dicc)
+	for ciudad,datos in dicc.items():
+		if datos[tipodato]==dato:
+			lista.append(ciudad)
+	return lista

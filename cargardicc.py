@@ -5,10 +5,10 @@ def cargar(ruta: str) -> dict:
 	with open(ruta,encoding='cp1252') as f:
 		for fila in f:
 			elementos=fila.strip().split(';')
-			fechas=convertir_fecha(elementos[1])
+			fechas=convertir_fecha(elementos[1],elementos[2])
+			fechadatetime=datetime.datetime.strptime(fechas,"%d-%m-%Y %H:%M")
 			datos={
-			'fecha':datetime.datetime.strptime(fechas,"%d-%m-%Y").timetuple()[:3],
-			'hora':elementos[2],
+			'fecha y hora':fechadatetime,
 			'condicion del cielo':elementos[3],
 			'visibilidad':elementos[4],
 			'temperatura(C)':float(elementos[5]),
@@ -18,10 +18,16 @@ def cargar(ruta: str) -> dict:
 			'Velocidad_viento':0.0,
 			'Presion':elementos[9]
 			}
+			print(datos['fecha y hora'])
 			viento = elementos[8].strip()
 			if viento.lower()=='calma':
 				datos['Direccion_viento']='Calma'
 				datos['Velocidad_viento']=0.0
+			elif viento.lower()=='direcciones variables':
+				dirvel=viento.split( )
+				datos['Direccion_viento']='Variable'
+				datos['Velocidad_viento']=float(dirvel[1])
+				
 			else:
 				dirvel=viento.split( )
 				datos['Direccion_viento']=dirvel[0],
@@ -33,7 +39,7 @@ def cargar(ruta: str) -> dict:
 			diccionario[elementos[0]] = datos
 		return(diccionario)
 		
-def convertir_fecha(fecha):
+def convertir_fecha(fecha,hora):
     meses = {
         'enero': '01',
         'febrero': '02',
@@ -49,9 +55,9 @@ def convertir_fecha(fecha):
         'diciembre': '12'
     }
     dia, mes, anio =fecha.lower().split('-')
-    fecha_numerica = f'{dia}-{meses[mes]}-{anio}'
+    hora,minuto =hora.split(':')
+    fecha_numerica = f'{dia}-{meses[mes]}-{anio} {hora}:{minuto}'
     return fecha_numerica 
     
 if __name__ =='__main__':
 	diccionario=cargar(sys.argv[1])
-	print(diccionario['Azul'])
