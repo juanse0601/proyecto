@@ -2,42 +2,44 @@ import sys
 import datetime
 def cargar(ruta: str) -> dict:		
 	diccionario={}
-	with open(ruta,encoding='cp1252') as f:
-		for fila in f:
-			elementos=fila.strip().split(';')
-			fechas=convertir_fecha(elementos[1],elementos[2])
-			fechadatetime=datetime.datetime.strptime(fechas,"%d-%m-%Y %H:%M")
-			datos={
-			'fecha y hora':fechadatetime,
-			'condicion del cielo':elementos[3],
-			'visibilidad':elementos[4],
-			'temperatura(C)':float(elementos[5]),
-			'Sensacion termica(C)':elementos[6],
-			'Humedad':elementos[7],
-			'Direccion_viento':'',
-			'Velocidad_viento':0.0,
-			'Presion':elementos[9]
-			}
-			print(datos['fecha y hora'])
-			viento = elementos[8].strip()
-			if viento.lower()=='calma':
-				datos['Direccion_viento']='Calma'
-				datos['Velocidad_viento']=0.0
-			elif viento.lower()=='direcciones variables':
-				dirvel=viento.split( )
-				datos['Direccion_viento']='Variable'
-				datos['Velocidad_viento']=float(dirvel[1])
-				
-			else:
-				dirvel=viento.split( )
-				datos['Direccion_viento']=dirvel[0],
-				try:
-					datos['Velocidad_viento'] = float(dirvel[1])
-				except ValueError:
-					datos['Velocidad_viento'] = 0.0
-				
-			diccionario[elementos[0]] = datos
-		return(diccionario)
+	try:
+		with open(ruta,encoding='cp1252') as f:
+			for fila in f:
+				elementos=fila.strip().split(';')
+				fechas=convertir_fecha(elementos[1],elementos[2])
+				fechadatetime=datetime.datetime.strptime(fechas,"%d-%m-%Y %H:%M")
+				datos={
+				'fecha y hora':fechadatetime,
+				'condicion del cielo':elementos[3],
+				'visibilidad':elementos[4],
+				'temperatura(C)':float(elementos[5]),
+				'Sensacion termica(C)':elementos[6],
+				'Humedad':elementos[7],
+				'Direccion_viento':'',
+				'Velocidad_viento':0.0,
+				'Presion':elementos[9]
+				}
+				viento = elementos[8].strip()
+				if viento.lower()=='calma':
+					datos['Direccion_viento']='Calma'
+					datos['Velocidad_viento']=0.0
+				elif viento.lower()=='direcciones variables':
+					dirvel=viento.split( )
+					datos['Direccion_viento']='Variable'
+					datos['Velocidad_viento']=float(dirvel[1])
+					
+				else:
+					dirvel=viento.split( )
+					datos['Direccion_viento']=dirvel[0],
+					try:
+						datos['Velocidad_viento'] = float(dirvel[1])
+					except ValueError:
+						datos['Velocidad_viento'] = 0.0
+					
+				diccionario[elementos[0]] = datos
+			return(diccionario)
+	except exception as e:
+		print('Ocurrio error', e)
 		
 def convertir_fecha(fecha,hora):
     meses = {
