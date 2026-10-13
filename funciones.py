@@ -1,6 +1,6 @@
 import sys
 import datetime
-import funcionesjson
+from funcionesjson import tipo_encoding
 
 def estacompleto(dicc:dict) -> int:
 	contador=0
@@ -19,7 +19,7 @@ def listaciudadescompletas(dicc:dict) -> int:
 def cargar(ruta: str) -> dict:		
 	diccionario={}
 	tipoencoding=tipo_encoding(ruta)
-	print(tipoencoding)
+	print('Tipo de encoding:'tipoencoding)
 	try:
 		with open(ruta,encoding=tipoencoding) as f:
 			for fila in f:
