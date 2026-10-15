@@ -2,6 +2,8 @@ import sys
 import os
 import json
 from pathlib import Path
+import datetime
+
 
 def tipo_encoding(ruta):
 	try:
@@ -13,15 +15,33 @@ def tipo_encoding(ruta):
 			f.read()
 			return "latin-1"
 
-def cargar_json(diccionario:dict):
+def cargar_json(diccionario:dict,nombresalida:str):
+	diccionario=convertir_fecha(diccionario)
 	base=Path.cwd()
 	salida=Path("obs_json")
-	salida.mkdir(exists_ok=True)
-	rutasalida=base.joinpath(salida)
-	with open(ruta, "w", encoding="utf-8") as archivo:
-		##Revisar items que estan dentro json.dump(medicion, archivo, ensure_ascii=False, indent=2)
+	if salida.exists():
+		print("La carpeta obs_json ya existe")
+	else:
+		print("Creando la carpeta obs_json")
+		salida.mkdir(exist_ok=True)
+	salida_sin_txt=Path(nombresalida).stem #Elimina extension .txt
+	rutasalida=base/salida/f"{salida_sin_txt}.json"
+	with open(rutasalida,"w", encoding="utf-8") as archivo:
+		json.dump(diccionario, archivo, ensure_ascii=False, indent=2)
+
+def leer_json(ruta):
+	base=Path.cwd()
+	salida=Path("obs_json")
+	if salida.exists():
+		
+	else:
+		print("No existe la carpeta obs_json")
 	
 	
+def convertir_fecha(dicc:dict):
+	for ciudad,elemento in dicc.items():
+		dicc[ciudad]["fecha y hora"]=dicc[ciudad]["fecha y hora"].isoformat(timespec='minutes')	
+	return dicc
 
 
 if __name__=='__main__':

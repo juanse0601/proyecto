@@ -1,6 +1,12 @@
 import sys
 import datetime
 import funciones
+import os
+import json
+from pathlib import Path
+import funcionesjson
+#lista=['ciudad/estacion','fecha','hora','condicion del cielo','visibilidad','temperatura(C)','Sensacion termica(C)','Humedad','Direccion_viento','Velocidad_viento','Presion']
+
 
 def leerdatos(diccionario:dict ):
 	print('Pruebas:\n')
@@ -22,7 +28,13 @@ def leerdatos(diccionario:dict ):
 	print('\nTemperatura min:',funciones.maxmin(diccionario,'temperatura(C)',False))
 	print('Ciudad(es) con min temperatura:',funciones.ciudades(diccionario,'temperatura(C)',False))
 
-diccionario=funciones.cargar(sys.argv[1])
-largodicc=len(diccionario)
-lista=['ciudad/estacion','fecha','hora','condicion del cielo','visibilidad','temperatura(C)','Sensacion termica(C)','Humedad','Direccion_viento','Velocidad_viento','Presion']
-leerdatos(diccionario)
+if len(sys.argv)==2:
+	extension=sys.argv[1].split('.')[-1]
+
+if extension='json':
+	diccionario=funciones.cargar(sys.argv[1])
+	funcionesjson.cargar_json(diccionario,sys.argv[1])
+elif extension='txt'
+	diccionario=funciones.cargar(sys.argv[1])
+	largodicc=len(diccionario)
+	leerdatos(diccionario)

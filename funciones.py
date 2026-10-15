@@ -19,7 +19,7 @@ def listaciudadescompletas(dicc:dict) -> int:
 def cargar(ruta: str) -> dict:		
 	diccionario={}
 	tipoencoding=tipo_encoding(ruta)
-	print('Tipo de encoding:'tipoencoding)
+	print('Tipo de encoding:',tipoencoding)
 	try:
 		with open(ruta,encoding=tipoencoding) as f:
 			for fila in f:
