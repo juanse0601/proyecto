@@ -2,6 +2,7 @@ import sys
 import datetime
 from funcionesjson import tipo_encoding
 
+
 def estacompleto(dicc:dict) -> int:
 	contador=0
 	for ciudad,datos in dicc.items():
@@ -15,7 +16,7 @@ def listaciudadescompletas(dicc:dict) -> int:
 		if datos['Sensacion termica(C)'] != 'No se calcula':
 			lista.append(ciudad)
 	return lista
-#############################
+##Funciones para cargar diccionario
 def cargar(ruta: str) -> dict:		
 	diccionario={}
 	tipoencoding=tipo_encoding(ruta)
@@ -37,6 +38,7 @@ def cargar(ruta: str) -> dict:
 				'Velocidad_viento':0.0,
 				'Presion':elementos[9]
 				}
+				##Verificamos si viento en calma o variable
 				viento = elementos[8].strip()
 				if viento.lower()=='calma':
 					datos['Direccion_viento']='Calma'
@@ -59,6 +61,7 @@ def cargar(ruta: str) -> dict:
 	except Exception as e:
 		print('Ocurrio error', e)
 		
+##Convertir mes en fecha numerica
 def convertir_fecha(fecha,hora):
     meses = {
         'enero': '01',
@@ -78,13 +81,15 @@ def convertir_fecha(fecha,hora):
     hora,minuto =hora.split(':')
     fecha_numerica = f'{dia}-{meses[mes]}-{anio} {hora}:{minuto}'
     return fecha_numerica 
+    
+##Lista con nombres de las ciudades
 def listaciudades(dicc: dict) -> list:
 	lista=[]
 	for ciudad,datos in dicc.items():
 		lista.append(ciudad)
 		
 	return lista
-########################    
+#Devuelve las n ciudades con mayor o menor tipodato
 def topciudades(dicc:dict, tipodato:str, n:int, descendente:bool) ->list:
 	lista=[(datos[tipodato],ciudad) for ciudad, datos in dicc.items()]
 	if descendente==True:
@@ -92,7 +97,8 @@ def topciudades(dicc:dict, tipodato:str, n:int, descendente:bool) ->list:
 	else:
 		lista.sort(reverse=False)
 	return lista[:n]
-	
+
+#Devuelve la mayor o menor tipo de dato	
 def maxmin(dicc:dict,tipodato:str,max:bool) -> float:
 	ciudades=listaciudades(dicc)
 	salida=dicc[ciudades[0]][tipodato]
@@ -106,7 +112,7 @@ def maxmin(dicc:dict,tipodato:str,max:bool) -> float:
 				salida=datos[tipodato]					
 	return salida
 	
-
+#Devuelve lista con ciudades con la mayor o menor de tipo de dato
 def ciudades(dicc:dict,tipodato:str,max:bool):
 	lista=[]
 	if tipodato=='temperatura(C)':
@@ -123,7 +129,28 @@ def ciudades(dicc:dict,tipodato:str,max:bool):
 		if datos[tipodato]==dato:
 			lista.append(ciudad)
 	return lista
+	
+def leerdatos(diccionario:dict ):
+	print('Pruebas:\n')
+	print('Ejemplo de datos de la ciudad Azul',diccionario['Azul'])
+	print(f'\nHay {funciones.estacompleto(diccionario)} ciudades completas:',funciones.listaciudadescompletas(diccionario))
+	#n ciudades
+	print('\n5 ciudades con mayor velocidad de viento:',funciones.topciudades(diccionario,'Velocidad_viento',5,True))
+	print('\n7 ciudades con menor temperatura:',funciones.topciudades(diccionario,'temperatura(C)',7,False))
+	#Velocidad max
+	print('\nVelocidad max:',funciones.maxmin(diccionario,'Velocidad_viento',True))
+	print('Ciudades con max velocidad viento:',funciones.ciudades(diccionario,'Velocidad_viento',True))
+	##Velocidad min
+	print('\nVelocidad min:',funciones.maxmin(diccionario,'Velocidad_viento',False))
+	print('Ciudades con min velocidad viento:',funciones.ciudades(diccionario,'Velocidad_viento',False))
+	#Tmp max 
+	print('\nTemperatura max:',funciones.maxmin(diccionario,'temperatura(C)',True))
+	print('Ciudad(es) con max temperatura:',funciones.ciudades(diccionario,'temperatura(C)',True))
+	#Tmp min
+	print('\nTemperatura min:',funciones.maxmin(diccionario,'temperatura(C)',False))
+	print('Ciudad(es) con min temperatura:',funciones.ciudades(diccionario,'temperatura(C)',False))
 
     
 if __name__ =='__main__':
 	diccionario=cargar(sys.argv[1])
+	leerdatos(diccionario)

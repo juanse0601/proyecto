@@ -1,0 +1,1553 @@
+{
+  "Azul": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 45",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "996.2 /"
+  },
+  "Bahía Blanca": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 35",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "1003.6 /"
+  },
+  "Benito Juárez": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Algo nublado con neblina",
+    "visibilidad": "9 km",
+    "temperatura(C)": 9.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 85",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "989.7 /"
+  },
+  "Bolívar": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 65",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "1003.6 /"
+  },
+  "Campo de Mayo": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 20.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 53",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "1012.2 /"
+  },
+  "Coronel Suarez": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "12 km",
+    "temperatura(C)": 17.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 32",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "986.6 /"
+  },
+  "Dolores": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Despejado con humo",
+    "visibilidad": "9 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 59",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1013.7 /"
+  },
+  "El Palomar": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 49",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "1013.4 /"
+  },
+  "Ezeiza": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 21.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 42",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1012.2 /"
+  },
+  "Junín": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 21.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 40",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "1004.2 /"
+  },
+  "La Plata": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 17.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1013.2 /"
+  },
+  "Las Flores": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 17.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 70",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "1010.2 /"
+  },
+  "Mar del Plata": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 52",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "1011.4 /"
+  },
+  "Mariano Moreno": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 51",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "1011.4 /"
+  },
+  "Merlo": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 49",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "1012.4 /"
+  },
+  "Morón": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 50",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "1011.4 /"
+  },
+  "Nueve de Julio": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 54",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "1005.6 /"
+  },
+  "Olavarría": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 9.1,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 87",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "995.8 /"
+  },
+  "Pehuajó": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 50",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "1003.6 /"
+  },
+  "Pigué": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 10.1,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 67",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "979 /"
+  },
+  "Punta Indio B.A.": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 70",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "1012.7 /"
+  },
+  "San Fernando": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 51",
+    "Direccion_viento": [
+      "Direcciones"
+    ],
+    "Velocidad_viento": 0.0,
+    "Presion": "1014 /"
+  },
+  "Tandil": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 18.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 46",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "992.7 /"
+  },
+  "Trenque Lauquen": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 46",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1002.6 /"
+  },
+  "Tres Arroyos": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 59",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 5.0,
+    "Presion": "1000.6 /"
+  },
+  "Villa Gesell": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 63",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "1013 /"
+  },
+  "Aeroparque Buenos Aires": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 16.9,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 69",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "1014.6 /"
+  },
+  "Buenos Aires": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 49",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "1012.1 /"
+  },
+  "Catamarca": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Cubierto con bruma",
+    "visibilidad": "10 km",
+    "temperatura(C)": 21.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 42",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 27.0,
+    "Presion": "956.1 /"
+  },
+  "Tinogasta": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 11.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "878.1 /"
+  },
+  "Pcia. Roque Saenz Peña": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado con bruma",
+    "visibilidad": "6 km",
+    "temperatura(C)": 26.7,
+    "Sensacion termica(C)": "25.9",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "998.1 /"
+  },
+  "Resistencia": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado con humo",
+    "visibilidad": "10 km",
+    "temperatura(C)": 26.3,
+    "Sensacion termica(C)": "25.6",
+    "Humedad": " 48",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "1003.2 /"
+  },
+  "Comodoro Rivadavia": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 5.8,
+    "Sensacion termica(C)": "0.8",
+    "Humedad": " 41",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 33.0,
+    "Presion": "1011.4 /"
+  },
+  "Esquel": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado con lluvia",
+    "visibilidad": "20 km",
+    "temperatura(C)": 6.6,
+    "Sensacion termica(C)": "5.2",
+    "Humedad": " 72",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "919 /"
+  },
+  "Paso De Indios": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado con lluvia",
+    "visibilidad": "20 km",
+    "temperatura(C)": 4.8,
+    "Sensacion termica(C)": "2.2",
+    "Humedad": " 92",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "956.7 /"
+  },
+  "Puerto Madryn": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 15.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 37",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 18.0,
+    "Presion": "996.5 /"
+  },
+  "Trelew": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 13.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 38",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "1008.5 /"
+  },
+  "Córdoba": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 20.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 41",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "955 /"
+  },
+  "Córdoba Observatorio": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 21.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 40",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "963.2 /"
+  },
+  "Esc. Aviación Militar": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 45",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "955.4 /"
+  },
+  "Laboulaye": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 46",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "996.9 /"
+  },
+  "Marcos Juárez": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 23.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 41",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "999.2 /"
+  },
+  "Pilar Obs.": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 20.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 40",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "974.2 /"
+  },
+  "Río Cuarto": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 48",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "963 /"
+  },
+  "Villa Dolores": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 22.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 31",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "945 /"
+  },
+  "Villa María Del Río Seco": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 16.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 71",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "974.8 /"
+  },
+  "Corrientes": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 25.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 54",
+    "Direccion_viento": [
+      "Direcciones"
+    ],
+    "Velocidad_viento": 0.0,
+    "Presion": "1002 /"
+  },
+  "Ituzaingó": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 24.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 75",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "1000.9 /"
+  },
+  "Mercedes": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 23.1,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 50",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "1000.4 /"
+  },
+  "Monte Caseros": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 23.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 41",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 22.0,
+    "Presion": "1006.1 /"
+  },
+  "Paso De Los Libres": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 23.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "1004 /"
+  },
+  "Concordia": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 22.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 35",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "1009 /"
+  },
+  "Gualeguaychú": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 56",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1011.4 /"
+  },
+  "Paraná": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 21.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1003.8 /"
+  },
+  "Formosa": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 25.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 67",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "1001 /"
+  },
+  "Las Lomitas": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Cubierto",
+    "visibilidad": "20 km",
+    "temperatura(C)": 26.2,
+    "Sensacion termica(C)": "25.5",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "993.6 /"
+  },
+  "Mount Pleasant Airport (Islas Malvinas)": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": -0.6,
+    "Sensacion termica(C)": "-8.4",
+    "Humedad": " 81",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 42.0,
+    "Presion": "995.9 /"
+  },
+  "La Quiaca": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 16.1,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 37",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "670.6 /"
+  },
+  "Jujuy": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Cubierto",
+    "visibilidad": "15 km",
+    "temperatura(C)": 23.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 40",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "906.2 /"
+  },
+  "Jujuy Universidad Nacional": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Cubierto",
+    "visibilidad": "15 km",
+    "temperatura(C)": 20.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 50",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "865.2 /"
+  },
+  "General Pico": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 20.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 37",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "995.8 /"
+  },
+  "Victorica": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "40 km",
+    "temperatura(C)": 3.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 59",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "978.5 /"
+  },
+  "Santa Rosa": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 19.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 24",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "990.9 /"
+  },
+  "Chamical": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado con polvo en suspensión",
+    "visibilidad": "15 km",
+    "temperatura(C)": 20.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 45",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "958.6 /"
+  },
+  "Chepes": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 14.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "938.1 /"
+  },
+  "Chilecito": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Despejado con bruma",
+    "visibilidad": "15 km",
+    "temperatura(C)": 12.9,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 62",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "909.3 /"
+  },
+  "La Rioja": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado con polvo en suspensión",
+    "visibilidad": "15 km",
+    "temperatura(C)": 22.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "959.2 /"
+  },
+  "Malargue": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 10.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 35",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "854.5 /"
+  },
+  "Mendoza": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 18.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 22",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "930.2 /"
+  },
+  "Mendoza Observatorio": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 18.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 25",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 5.0,
+    "Presion": "916.5 /"
+  },
+  "San Martín (Mza)": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.9,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 19",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "935.3 /"
+  },
+  "San Rafael": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 17.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 23",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "926 /"
+  },
+  "Uspallata": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 8.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 33",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "809.2 /"
+  },
+  "Bernardo De Irigoyen": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado con tormenta",
+    "visibilidad": "3.5 km",
+    "temperatura(C)": 17.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 100",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "920.8 /"
+  },
+  "Iguazú": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 22.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 91",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "978.5 /"
+  },
+  "Oberá": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Cubierto",
+    "visibilidad": "20 km",
+    "temperatura(C)": 18.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 92",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "974.4 /"
+  },
+  "Posadas": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 25.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 72",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "994.2 /"
+  },
+  "Chapelco": {
+    "fecha y hora": "2026-09-10T10:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 6.5,
+    "Sensacion termica(C)": "4.6",
+    "Humedad": " 72",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "923.2 /"
+  },
+  "Neuquén": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 14.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 39",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "981 /"
+  },
+  "Bariloche": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 7.6,
+    "Sensacion termica(C)": "3.5",
+    "Humedad": " 58",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 29.0,
+    "Presion": "916.1 /"
+  },
+  "Cipolletti": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Parcialmente nublado con precipitación a la vista",
+    "visibilidad": "25 km",
+    "temperatura(C)": 5.8,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 69",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "984.1 /"
+  },
+  "El Bolsón": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 13.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 48",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 18.0,
+    "Presion": "974 /"
+  },
+  "Maquinchao": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "40 km",
+    "temperatura(C)": 10.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 41",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 24.0,
+    "Presion": "910.2 /"
+  },
+  "Río Colorado": {
+    "fecha y hora": "2026-09-09T15:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 20.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 30",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "1004.6 /"
+  },
+  "San Antonio Oeste": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 6.8,
+    "Sensacion termica(C)": "5.0",
+    "Humedad": " 49",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "1013.3 /"
+  },
+  "Viedma": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 18.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 39",
+    "Direccion_viento": [
+      "Direcciones"
+    ],
+    "Velocidad_viento": 0.0,
+    "Presion": "1011.3 /"
+  },
+  "Metán": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Nublado con bruma",
+    "visibilidad": "12 km",
+    "temperatura(C)": 15.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 73",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "917 /"
+  },
+  "Orán": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 27.4,
+    "Sensacion termica(C)": "27.6",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "965.9 /"
+  },
+  "Rivadavia": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Despejado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 28.0,
+    "Sensacion termica(C)": "28.7",
+    "Humedad": " 52",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "984.4 /"
+  },
+  "Salta": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Cubierto con bruma",
+    "visibilidad": "10 km",
+    "temperatura(C)": 20.0,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 5.0,
+    "Presion": "874.4 /"
+  },
+  "Tartagal": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado con humo",
+    "visibilidad": "6 km",
+    "temperatura(C)": 26.4,
+    "Sensacion termica(C)": "26.6",
+    "Humedad": " 43",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "958.2 /"
+  },
+  "Jachal": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 15.9,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 26",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "880.5 /"
+  },
+  "San Juan": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 19.2,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 18",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "941.8 /"
+  },
+  "San Luis": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 20.1,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 18",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 5.0,
+    "Presion": "929.2 /"
+  },
+  "Santa Rosa del Conlara": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": 21.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 42",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "939.2 /"
+  },
+  "Villa Reynolds": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 19.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 32",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 25.0,
+    "Presion": "955.9 /"
+  },
+  "El Calafate": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 4.4,
+    "Sensacion termica(C)": "2.1",
+    "Humedad": " 37",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 9.0,
+    "Presion": "995.3 /"
+  },
+  "Gobernador Gregores": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Nublado con nevada",
+    "visibilidad": "45 km",
+    "temperatura(C)": -2.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 92",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "973.8 /"
+  },
+  "Perito Moreno": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "50 km",
+    "temperatura(C)": 7.6,
+    "Sensacion termica(C)": "2.8",
+    "Humedad": " 46",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 38.0,
+    "Presion": "963.8 /"
+  },
+  "Puerto Deseado": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 0.3,
+    "Sensacion termica(C)": "-5.4",
+    "Humedad": " 71",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 24.0,
+    "Presion": "1002.4 /"
+  },
+  "Río Gallegos": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 3.2,
+    "Sensacion termica(C)": "-2.9",
+    "Humedad": " 48",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 37.0,
+    "Presion": "1014.4 /"
+  },
+  "San Julián": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": -1.4,
+    "Sensacion termica(C)": "-9.0",
+    "Humedad": " 76",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 37.0,
+    "Presion": "1008.2 /"
+  },
+  "Santa Cruz": {
+    "fecha y hora": "2026-09-10T09:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": -1.7,
+    "Sensacion termica(C)": "-8.4",
+    "Humedad": " 76",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 27.0,
+    "Presion": "1001.3 /"
+  },
+  "Ceres": {
+    "fecha y hora": "2026-09-10T11:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 22.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "1002.6 /"
+  },
+  "Rafaela": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 22.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 53",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "1001.3 /"
+  },
+  "Reconquista": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 23.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 20.0,
+    "Presion": "1005.8 /"
+  },
+  "Rosario": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 20.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 47",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 11.0,
+    "Presion": "1010.2 /"
+  },
+  "Santa Fe": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "12 km",
+    "temperatura(C)": 22.3,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 51",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "1010.8 /"
+  },
+  "Sunchales": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": 23.1,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 45",
+    "Direccion_viento": [
+      "Este"
+    ],
+    "Velocidad_viento": 14.0,
+    "Presion": "1001.1 /"
+  },
+  "Venado Tuerto": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 22.4,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 42",
+    "Direccion_viento": [
+      "Norte"
+    ],
+    "Velocidad_viento": 13.0,
+    "Presion": "998.8 /"
+  },
+  "Termas de Rio Hondo": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Cubierto",
+    "visibilidad": "15 km",
+    "temperatura(C)": 18.6,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 59",
+    "Direccion_viento": [
+      "Noreste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "977.7 /"
+  },
+  "Santiago del Estero": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": 22.9,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 52",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "987 /"
+  },
+  "Río Grande B.A.": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Parcialmente nublado",
+    "visibilidad": "30 km",
+    "temperatura(C)": 3.6,
+    "Sensacion termica(C)": "-1.4",
+    "Humedad": " 54",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 25.0,
+    "Presion": "1010.4 /"
+  },
+  "Ushuaia": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Cubierto con nevada",
+    "visibilidad": "2.0 km",
+    "temperatura(C)": -1.2,
+    "Sensacion termica(C)": "-8.0",
+    "Humedad": " 98",
+    "Direccion_viento": [
+      "Sudoeste"
+    ],
+    "Velocidad_viento": 29.0,
+    "Presion": "1007.6 /"
+  },
+  "Tucumán": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Cubierto con humo",
+    "visibilidad": "8 km",
+    "temperatura(C)": 20.9,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 49",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 7.0,
+    "Presion": "958.2 /"
+  },
+  "Base Belgrano II": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado con ventisca baja",
+    "visibilidad": "5 km",
+    "temperatura(C)": -28.6,
+    "Sensacion termica(C)": "-44.1",
+    "Humedad": " 50",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 31.0,
+    "Presion": "954.6 /"
+  },
+  "Base Esperanza": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": -9.5,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 75",
+    "Direccion_viento": [
+      "Oeste"
+    ],
+    "Velocidad_viento": 3.0,
+    "Presion": "999.8 /"
+  },
+  "Base Carlini": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "10 km",
+    "temperatura(C)": -6.7,
+    "Sensacion termica(C)": "No se calcula",
+    "Humedad": " 75",
+    "Direccion_viento": "Calma",
+    "Velocidad_viento": 0.0,
+    "Presion": "1002.5 /"
+  },
+  "Base Marambio": {
+    "fecha y hora": "2026-09-10T13:00",
+    "condicion del cielo": "Algo nublado",
+    "visibilidad": "15 km",
+    "temperatura(C)": -15.5,
+    "Sensacion termica(C)": "-24.0",
+    "Humedad": " 59",
+    "Direccion_viento": [
+      "Noroeste"
+    ],
+    "Velocidad_viento": 16.0,
+    "Presion": "976.2 /"
+  },
+  "Base Orcadas": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Algo nublado con neblina",
+    "visibilidad": "9 km",
+    "temperatura(C)": -24.3,
+    "Sensacion termica(C)": "-36.9",
+    "Humedad": " 59",
+    "Direccion_viento": [
+      "Sudeste"
+    ],
+    "Velocidad_viento": 24.0,
+    "Presion": "999.6 /"
+  },
+  "Base San Martín": {
+    "fecha y hora": "2026-09-10T12:00",
+    "condicion del cielo": "Nublado",
+    "visibilidad": "20 km",
+    "temperatura(C)": -24.8,
+    "Sensacion termica(C)": "-30.2",
+    "Humedad": " 79",
+    "Direccion_viento": [
+      "Sur"
+    ],
+    "Velocidad_viento": 5.0,
+    "Presion": "1005.7 /"
+  }
+}
