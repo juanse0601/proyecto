@@ -6,9 +6,7 @@
     "temperatura(C)": 19.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 45",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 7.0,
     "Presion": "996.2 /"
   },
@@ -19,9 +17,7 @@
     "temperatura(C)": 19.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 35",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 9.0,
     "Presion": "1003.6 /"
   },
@@ -32,9 +28,7 @@
     "temperatura(C)": 9.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 85",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 3.0,
     "Presion": "989.7 /"
   },
@@ -56,9 +50,7 @@
     "temperatura(C)": 20.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 53",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 3.0,
     "Presion": "1012.2 /"
   },
@@ -69,9 +61,7 @@
     "temperatura(C)": 17.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 32",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 9.0,
     "Presion": "986.6 /"
   },
@@ -82,9 +72,7 @@
     "temperatura(C)": 18.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 59",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 11.0,
     "Presion": "1013.7 /"
   },
@@ -95,9 +83,7 @@
     "temperatura(C)": 19.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 49",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 7.0,
     "Presion": "1013.4 /"
   },
@@ -108,9 +94,7 @@
     "temperatura(C)": 21.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 42",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 11.0,
     "Presion": "1012.2 /"
   },
@@ -121,9 +105,7 @@
     "temperatura(C)": 21.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 40",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 14.0,
     "Presion": "1004.2 /"
   },
@@ -134,9 +116,7 @@
     "temperatura(C)": 17.8,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 11.0,
     "Presion": "1013.2 /"
   },
@@ -147,9 +127,7 @@
     "temperatura(C)": 17.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 70",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 3.0,
     "Presion": "1010.2 /"
   },
@@ -171,9 +149,7 @@
     "temperatura(C)": 19.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 51",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 3.0,
     "Presion": "1011.4 /"
   },
@@ -184,9 +160,7 @@
     "temperatura(C)": 19.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 49",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 9.0,
     "Presion": "1012.4 /"
   },
@@ -197,9 +171,7 @@
     "temperatura(C)": 19.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 50",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 13.0,
     "Presion": "1011.4 /"
   },
@@ -210,9 +182,7 @@
     "temperatura(C)": 18.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 54",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 7.0,
     "Presion": "1005.6 /"
   },
@@ -234,9 +204,7 @@
     "temperatura(C)": 19.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 50",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 16.0,
     "Presion": "1003.6 /"
   },
@@ -258,9 +226,7 @@
     "temperatura(C)": 18.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 70",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 13.0,
     "Presion": "1012.7 /"
   },
@@ -271,9 +237,7 @@
     "temperatura(C)": 19.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 51",
-    "Direccion_viento": [
-      "Direcciones"
-    ],
+    "Direccion_viento": "Direcciones",
     "Velocidad_viento": 0.0,
     "Presion": "1014 /"
   },
@@ -284,9 +248,7 @@
     "temperatura(C)": 18.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 46",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 13.0,
     "Presion": "992.7 /"
   },
@@ -297,9 +259,7 @@
     "temperatura(C)": 19.8,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 46",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 11.0,
     "Presion": "1002.6 /"
   },
@@ -310,9 +270,7 @@
     "temperatura(C)": 18.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 59",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 5.0,
     "Presion": "1000.6 /"
   },
@@ -323,9 +281,7 @@
     "temperatura(C)": 19.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 63",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 7.0,
     "Presion": "1013 /"
   },
@@ -336,9 +292,7 @@
     "temperatura(C)": 16.9,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 69",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 9.0,
     "Presion": "1014.6 /"
   },
@@ -349,9 +303,7 @@
     "temperatura(C)": 19.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 49",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 9.0,
     "Presion": "1012.1 /"
   },
@@ -362,9 +314,7 @@
     "temperatura(C)": 21.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 42",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 27.0,
     "Presion": "956.1 /"
   },
@@ -375,9 +325,7 @@
     "temperatura(C)": 11.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 14.0,
     "Presion": "878.1 /"
   },
@@ -388,9 +336,7 @@
     "temperatura(C)": 26.7,
     "Sensacion termica(C)": "25.9",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 13.0,
     "Presion": "998.1 /"
   },
@@ -401,9 +347,7 @@
     "temperatura(C)": 26.3,
     "Sensacion termica(C)": "25.6",
     "Humedad": " 48",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 13.0,
     "Presion": "1003.2 /"
   },
@@ -414,9 +358,7 @@
     "temperatura(C)": 5.8,
     "Sensacion termica(C)": "0.8",
     "Humedad": " 41",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 33.0,
     "Presion": "1011.4 /"
   },
@@ -427,9 +369,7 @@
     "temperatura(C)": 6.6,
     "Sensacion termica(C)": "5.2",
     "Humedad": " 72",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 7.0,
     "Presion": "919 /"
   },
@@ -440,9 +380,7 @@
     "temperatura(C)": 4.8,
     "Sensacion termica(C)": "2.2",
     "Humedad": " 92",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 11.0,
     "Presion": "956.7 /"
   },
@@ -453,9 +391,7 @@
     "temperatura(C)": 15.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 37",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 18.0,
     "Presion": "996.5 /"
   },
@@ -466,9 +402,7 @@
     "temperatura(C)": 13.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 38",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 14.0,
     "Presion": "1008.5 /"
   },
@@ -479,9 +413,7 @@
     "temperatura(C)": 20.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 41",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 11.0,
     "Presion": "955 /"
   },
@@ -492,9 +424,7 @@
     "temperatura(C)": 21.8,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 40",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 9.0,
     "Presion": "963.2 /"
   },
@@ -505,9 +435,7 @@
     "temperatura(C)": 19.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 45",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 7.0,
     "Presion": "955.4 /"
   },
@@ -518,9 +446,7 @@
     "temperatura(C)": 19.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 46",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 3.0,
     "Presion": "996.9 /"
   },
@@ -531,9 +457,7 @@
     "temperatura(C)": 23.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 41",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 11.0,
     "Presion": "999.2 /"
   },
@@ -544,9 +468,7 @@
     "temperatura(C)": 20.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 40",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 3.0,
     "Presion": "974.2 /"
   },
@@ -557,9 +479,7 @@
     "temperatura(C)": 18.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 48",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 14.0,
     "Presion": "963 /"
   },
@@ -570,9 +490,7 @@
     "temperatura(C)": 22.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 31",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 11.0,
     "Presion": "945 /"
   },
@@ -594,9 +512,7 @@
     "temperatura(C)": 25.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 54",
-    "Direccion_viento": [
-      "Direcciones"
-    ],
+    "Direccion_viento": "Direcciones",
     "Velocidad_viento": 0.0,
     "Presion": "1002 /"
   },
@@ -607,9 +523,7 @@
     "temperatura(C)": 24.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 75",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 9.0,
     "Presion": "1000.9 /"
   },
@@ -620,9 +534,7 @@
     "temperatura(C)": 23.1,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 50",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 16.0,
     "Presion": "1000.4 /"
   },
@@ -633,9 +545,7 @@
     "temperatura(C)": 23.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 41",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 22.0,
     "Presion": "1006.1 /"
   },
@@ -646,9 +556,7 @@
     "temperatura(C)": 23.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 16.0,
     "Presion": "1004 /"
   },
@@ -659,9 +567,7 @@
     "temperatura(C)": 22.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 35",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 16.0,
     "Presion": "1009 /"
   },
@@ -672,9 +578,7 @@
     "temperatura(C)": 19.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 56",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 11.0,
     "Presion": "1011.4 /"
   },
@@ -685,9 +589,7 @@
     "temperatura(C)": 21.8,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 11.0,
     "Presion": "1003.8 /"
   },
@@ -698,9 +600,7 @@
     "temperatura(C)": 25.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 67",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 13.0,
     "Presion": "1001 /"
   },
@@ -711,9 +611,7 @@
     "temperatura(C)": 26.2,
     "Sensacion termica(C)": "25.5",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 14.0,
     "Presion": "993.6 /"
   },
@@ -724,9 +622,7 @@
     "temperatura(C)": -0.6,
     "Sensacion termica(C)": "-8.4",
     "Humedad": " 81",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 42.0,
     "Presion": "995.9 /"
   },
@@ -737,9 +633,7 @@
     "temperatura(C)": 16.1,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 37",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 14.0,
     "Presion": "670.6 /"
   },
@@ -750,9 +644,7 @@
     "temperatura(C)": 23.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 40",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 13.0,
     "Presion": "906.2 /"
   },
@@ -763,9 +655,7 @@
     "temperatura(C)": 20.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 50",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 3.0,
     "Presion": "865.2 /"
   },
@@ -776,9 +666,7 @@
     "temperatura(C)": 20.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 37",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 13.0,
     "Presion": "995.8 /"
   },
@@ -789,9 +677,7 @@
     "temperatura(C)": 3.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 59",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 3.0,
     "Presion": "978.5 /"
   },
@@ -802,9 +688,7 @@
     "temperatura(C)": 19.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 24",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 13.0,
     "Presion": "990.9 /"
   },
@@ -815,9 +699,7 @@
     "temperatura(C)": 20.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 45",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 14.0,
     "Presion": "958.6 /"
   },
@@ -828,9 +710,7 @@
     "temperatura(C)": 14.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 3.0,
     "Presion": "938.1 /"
   },
@@ -841,9 +721,7 @@
     "temperatura(C)": 12.9,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 62",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 7.0,
     "Presion": "909.3 /"
   },
@@ -854,9 +732,7 @@
     "temperatura(C)": 22.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 9.0,
     "Presion": "959.2 /"
   },
@@ -867,9 +743,7 @@
     "temperatura(C)": 10.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 35",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 9.0,
     "Presion": "854.5 /"
   },
@@ -880,9 +754,7 @@
     "temperatura(C)": 18.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 22",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 7.0,
     "Presion": "930.2 /"
   },
@@ -893,9 +765,7 @@
     "temperatura(C)": 18.8,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 25",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 5.0,
     "Presion": "916.5 /"
   },
@@ -906,9 +776,7 @@
     "temperatura(C)": 19.9,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 19",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 11.0,
     "Presion": "935.3 /"
   },
@@ -919,9 +787,7 @@
     "temperatura(C)": 17.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 23",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 16.0,
     "Presion": "926 /"
   },
@@ -943,9 +809,7 @@
     "temperatura(C)": 17.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 100",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 3.0,
     "Presion": "920.8 /"
   },
@@ -956,9 +820,7 @@
     "temperatura(C)": 22.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 91",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 13.0,
     "Presion": "978.5 /"
   },
@@ -969,9 +831,7 @@
     "temperatura(C)": 18.8,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 92",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 3.0,
     "Presion": "974.4 /"
   },
@@ -982,9 +842,7 @@
     "temperatura(C)": 25.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 72",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 9.0,
     "Presion": "994.2 /"
   },
@@ -995,9 +853,7 @@
     "temperatura(C)": 6.5,
     "Sensacion termica(C)": "4.6",
     "Humedad": " 72",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 9.0,
     "Presion": "923.2 /"
   },
@@ -1008,9 +864,7 @@
     "temperatura(C)": 14.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 39",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 3.0,
     "Presion": "981 /"
   },
@@ -1021,9 +875,7 @@
     "temperatura(C)": 7.6,
     "Sensacion termica(C)": "3.5",
     "Humedad": " 58",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 29.0,
     "Presion": "916.1 /"
   },
@@ -1045,9 +897,7 @@
     "temperatura(C)": 13.7,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 48",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 18.0,
     "Presion": "974 /"
   },
@@ -1058,9 +908,7 @@
     "temperatura(C)": 10.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 41",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 24.0,
     "Presion": "910.2 /"
   },
@@ -1071,9 +919,7 @@
     "temperatura(C)": 20.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 30",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 3.0,
     "Presion": "1004.6 /"
   },
@@ -1084,9 +930,7 @@
     "temperatura(C)": 6.8,
     "Sensacion termica(C)": "5.0",
     "Humedad": " 49",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 9.0,
     "Presion": "1013.3 /"
   },
@@ -1097,9 +941,7 @@
     "temperatura(C)": 18.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 39",
-    "Direccion_viento": [
-      "Direcciones"
-    ],
+    "Direccion_viento": "Direcciones",
     "Velocidad_viento": 0.0,
     "Presion": "1011.3 /"
   },
@@ -1121,9 +963,7 @@
     "temperatura(C)": 27.4,
     "Sensacion termica(C)": "27.6",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 9.0,
     "Presion": "965.9 /"
   },
@@ -1145,9 +985,7 @@
     "temperatura(C)": 20.0,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 5.0,
     "Presion": "874.4 /"
   },
@@ -1158,9 +996,7 @@
     "temperatura(C)": 26.4,
     "Sensacion termica(C)": "26.6",
     "Humedad": " 43",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 9.0,
     "Presion": "958.2 /"
   },
@@ -1171,9 +1007,7 @@
     "temperatura(C)": 15.9,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 26",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 9.0,
     "Presion": "880.5 /"
   },
@@ -1184,9 +1018,7 @@
     "temperatura(C)": 19.2,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 18",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 11.0,
     "Presion": "941.8 /"
   },
@@ -1197,9 +1029,7 @@
     "temperatura(C)": 20.1,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 18",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 5.0,
     "Presion": "929.2 /"
   },
@@ -1210,9 +1040,7 @@
     "temperatura(C)": 21.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 42",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 14.0,
     "Presion": "939.2 /"
   },
@@ -1223,9 +1051,7 @@
     "temperatura(C)": 19.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 32",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 25.0,
     "Presion": "955.9 /"
   },
@@ -1236,9 +1062,7 @@
     "temperatura(C)": 4.4,
     "Sensacion termica(C)": "2.1",
     "Humedad": " 37",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 9.0,
     "Presion": "995.3 /"
   },
@@ -1260,9 +1084,7 @@
     "temperatura(C)": 7.6,
     "Sensacion termica(C)": "2.8",
     "Humedad": " 46",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 38.0,
     "Presion": "963.8 /"
   },
@@ -1273,9 +1095,7 @@
     "temperatura(C)": 0.3,
     "Sensacion termica(C)": "-5.4",
     "Humedad": " 71",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 24.0,
     "Presion": "1002.4 /"
   },
@@ -1286,9 +1106,7 @@
     "temperatura(C)": 3.2,
     "Sensacion termica(C)": "-2.9",
     "Humedad": " 48",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 37.0,
     "Presion": "1014.4 /"
   },
@@ -1299,9 +1117,7 @@
     "temperatura(C)": -1.4,
     "Sensacion termica(C)": "-9.0",
     "Humedad": " 76",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 37.0,
     "Presion": "1008.2 /"
   },
@@ -1312,9 +1128,7 @@
     "temperatura(C)": -1.7,
     "Sensacion termica(C)": "-8.4",
     "Humedad": " 76",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 27.0,
     "Presion": "1001.3 /"
   },
@@ -1325,9 +1139,7 @@
     "temperatura(C)": 22.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 16.0,
     "Presion": "1002.6 /"
   },
@@ -1338,9 +1150,7 @@
     "temperatura(C)": 22.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 53",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 14.0,
     "Presion": "1001.3 /"
   },
@@ -1351,9 +1161,7 @@
     "temperatura(C)": 23.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 20.0,
     "Presion": "1005.8 /"
   },
@@ -1364,9 +1172,7 @@
     "temperatura(C)": 20.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 47",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 11.0,
     "Presion": "1010.2 /"
   },
@@ -1377,9 +1183,7 @@
     "temperatura(C)": 22.3,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 51",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 13.0,
     "Presion": "1010.8 /"
   },
@@ -1390,9 +1194,7 @@
     "temperatura(C)": 23.1,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 45",
-    "Direccion_viento": [
-      "Este"
-    ],
+    "Direccion_viento": "Este",
     "Velocidad_viento": 14.0,
     "Presion": "1001.1 /"
   },
@@ -1403,9 +1205,7 @@
     "temperatura(C)": 22.4,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 42",
-    "Direccion_viento": [
-      "Norte"
-    ],
+    "Direccion_viento": "Norte",
     "Velocidad_viento": 13.0,
     "Presion": "998.8 /"
   },
@@ -1416,9 +1216,7 @@
     "temperatura(C)": 18.6,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 59",
-    "Direccion_viento": [
-      "Noreste"
-    ],
+    "Direccion_viento": "Noreste",
     "Velocidad_viento": 7.0,
     "Presion": "977.7 /"
   },
@@ -1429,9 +1227,7 @@
     "temperatura(C)": 22.9,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 52",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 7.0,
     "Presion": "987 /"
   },
@@ -1442,9 +1238,7 @@
     "temperatura(C)": 3.6,
     "Sensacion termica(C)": "-1.4",
     "Humedad": " 54",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 25.0,
     "Presion": "1010.4 /"
   },
@@ -1455,9 +1249,7 @@
     "temperatura(C)": -1.2,
     "Sensacion termica(C)": "-8.0",
     "Humedad": " 98",
-    "Direccion_viento": [
-      "Sudoeste"
-    ],
+    "Direccion_viento": "Sudoeste",
     "Velocidad_viento": 29.0,
     "Presion": "1007.6 /"
   },
@@ -1468,9 +1260,7 @@
     "temperatura(C)": 20.9,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 49",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 7.0,
     "Presion": "958.2 /"
   },
@@ -1481,9 +1271,7 @@
     "temperatura(C)": -28.6,
     "Sensacion termica(C)": "-44.1",
     "Humedad": " 50",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 31.0,
     "Presion": "954.6 /"
   },
@@ -1494,9 +1282,7 @@
     "temperatura(C)": -9.5,
     "Sensacion termica(C)": "No se calcula",
     "Humedad": " 75",
-    "Direccion_viento": [
-      "Oeste"
-    ],
+    "Direccion_viento": "Oeste",
     "Velocidad_viento": 3.0,
     "Presion": "999.8 /"
   },
@@ -1518,9 +1304,7 @@
     "temperatura(C)": -15.5,
     "Sensacion termica(C)": "-24.0",
     "Humedad": " 59",
-    "Direccion_viento": [
-      "Noroeste"
-    ],
+    "Direccion_viento": "Noroeste",
     "Velocidad_viento": 16.0,
     "Presion": "976.2 /"
   },
@@ -1531,9 +1315,7 @@
     "temperatura(C)": -24.3,
     "Sensacion termica(C)": "-36.9",
     "Humedad": " 59",
-    "Direccion_viento": [
-      "Sudeste"
-    ],
+    "Direccion_viento": "Sudeste",
     "Velocidad_viento": 24.0,
     "Presion": "999.6 /"
   },
@@ -1544,9 +1326,7 @@
     "temperatura(C)": -24.8,
     "Sensacion termica(C)": "-30.2",
     "Humedad": " 79",
-    "Direccion_viento": [
-      "Sur"
-    ],
+    "Direccion_viento": "Sur",
     "Velocidad_viento": 5.0,
     "Presion": "1005.7 /"
   }

@@ -1,13 +1,10 @@
 PROYECTO 0.1
-Las funciones del proyecto 0 estan en el archivo funciones.
-Las funciones para trabajar con .json esta en funcionesjson.
-En analisis_smn se carga y lee el json.
-
+Funciones del proyecto en funciones_smn
 Comandos usados:
 Para cargar y leer .txt
-python analisis_smn.py datos/observaciones_smn.txt
+python smn.py datos/observaciones_smn.txt
 Para leer .json
-python analisis_smn.py obs_json/observaciones_smn.json
+python smn.py obs_json/observaciones_smn.json
 
 ######
 PROYECTO0

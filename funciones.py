@@ -1,27 +1,27 @@
 import sys
 import datetime
-from funcionesjson import tipo_encoding
+from funciones_smn import tipo_encoding
 
 
-def estacompleto(dicc:dict) -> int:
+def cantidad_ciudades_completas(dicc:dict) -> int:
 	contador=0
 	for ciudad,datos in dicc.items():
-		if datos['Sensacion termica(C)'] != 'No se calcula':
+		if datos['Sensacion termica(C)'] != 'No se calcula' and not "" in datos.values():
 			contador=contador+1
 	return contador		
 
-def listaciudadescompletas(dicc:dict) -> int:
+def listaciudadescompletas(dicc:dict) -> list:
 	lista=[]
 	for ciudad,datos in dicc.items():
-		if datos['Sensacion termica(C)'] != 'No se calcula':
+		if datos['Sensacion termica(C)'] != 'No se calcula' and not "" in datos.values():
 			lista.append(ciudad)
 	return lista
 ##Funciones para cargar diccionario
-def cargar(ruta: str) -> dict:		
+def leer_observaciones(ruta: str) -> dict:		
 	diccionario={}
-	tipoencoding=tipo_encoding(ruta)
-	print('Tipo de encoding:',tipoencoding)
 	try:
+		tipoencoding=tipo_encoding(ruta)
+		print('Tipo de encoding:',tipoencoding)
 		with open(ruta,encoding=tipoencoding) as f:
 			for fila in f:
 				elementos=fila.strip().split(';')
@@ -50,7 +50,7 @@ def cargar(ruta: str) -> dict:
 					
 				else:
 					dirvel=viento.split( )
-					datos['Direccion_viento']=dirvel[0],
+					datos['Direccion_viento']=dirvel[0]
 					try:
 						datos['Velocidad_viento'] = float(dirvel[1])
 					except ValueError:
@@ -90,7 +90,7 @@ def listaciudades(dicc: dict) -> list:
 		
 	return lista
 #Devuelve las n ciudades con mayor o menor tipodato
-def topciudades(dicc:dict, tipodato:str, n:int, descendente:bool) ->list:
+def top_n_ciudades(dicc:dict, tipodato:str, n:int, descendente:bool) ->list:
 	lista=[(datos[tipodato],ciudad) for ciudad, datos in dicc.items()]
 	if descendente==True:
 		lista.sort(reverse=True)
@@ -131,26 +131,27 @@ def ciudades(dicc:dict,tipodato:str,max:bool):
 	return lista
 	
 def leerdatos(diccionario:dict ):
+	nombres_ciudades=listaciudades(diccionario)
 	print('Pruebas:\n')
-	print('Ejemplo de datos de la ciudad Azul',diccionario['Azul'])
-	print(f'\nHay {funciones.estacompleto(diccionario)} ciudades completas:',funciones.listaciudadescompletas(diccionario))
+	print('Ejemplo de datos de la ciudad Azul',diccionario[nombres_ciudades[0]])
+	print(f'\nHay {cantidad_ciudades_completas(diccionario)} ciudades completas:',listaciudadescompletas(diccionario))
 	#n ciudades
-	print('\n5 ciudades con mayor velocidad de viento:',funciones.topciudades(diccionario,'Velocidad_viento',5,True))
-	print('\n7 ciudades con menor temperatura:',funciones.topciudades(diccionario,'temperatura(C)',7,False))
+	print('\n5 ciudades con mayor velocidad de viento:',top_n_ciudades(diccionario,'Velocidad_viento',5,True))
+	print('\n5 ciudades con menor temperatura:',top_n_ciudades(diccionario,'temperatura(C)',5,False))
 	#Velocidad max
-	print('\nVelocidad max:',funciones.maxmin(diccionario,'Velocidad_viento',True))
-	print('Ciudades con max velocidad viento:',funciones.ciudades(diccionario,'Velocidad_viento',True))
+	print('\nVelocidad max:',maxmin(diccionario,'Velocidad_viento',True))
+	print('Ciudades con max velocidad viento:',ciudades(diccionario,'Velocidad_viento',True))
 	##Velocidad min
-	print('\nVelocidad min:',funciones.maxmin(diccionario,'Velocidad_viento',False))
-	print('Ciudades con min velocidad viento:',funciones.ciudades(diccionario,'Velocidad_viento',False))
+	print('\nVelocidad min:',maxmin(diccionario,'Velocidad_viento',False))
+	print('Ciudades con min velocidad viento:',ciudades(diccionario,'Velocidad_viento',False))
 	#Tmp max 
-	print('\nTemperatura max:',funciones.maxmin(diccionario,'temperatura(C)',True))
-	print('Ciudad(es) con max temperatura:',funciones.ciudades(diccionario,'temperatura(C)',True))
+	print('\nTemperatura max:',maxmin(diccionario,'temperatura(C)',True))
+	print('Ciudad(es) con max temperatura:',ciudades(diccionario,'temperatura(C)',True))
 	#Tmp min
-	print('\nTemperatura min:',funciones.maxmin(diccionario,'temperatura(C)',False))
-	print('Ciudad(es) con min temperatura:',funciones.ciudades(diccionario,'temperatura(C)',False))
+	print('\nTemperatura min:',maxmin(diccionario,'temperatura(C)',False))
+	print('Ciudad(es) con min temperatura:',ciudades(diccionario,'temperatura(C)',False))
 
     
 if __name__ =='__main__':
-	diccionario=cargar(sys.argv[1])
+	diccionario=leer_observaciones(sys.argv[1])
 	leerdatos(diccionario)
